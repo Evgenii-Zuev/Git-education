@@ -27,4 +27,4 @@
 - Последовательность выполнения операций
 - Отсутствие избыточных изменений в истории
 
- `$ Ссылка на демонстрационный репозиторий https://github.com/aleksei-sokolov/devops-school-git
+ Ссылка на демонстрационный репозиторий `$https://github.com/aleksei-sokolov/devops-school-git`
