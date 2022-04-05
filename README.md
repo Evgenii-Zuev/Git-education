@@ -1,3 +1,5 @@
+# Git_education
+
 # клонирую репозиторий на локальную машину (только вертка mster)
 git clone git@github.com:aleksei-sokolov/devops-school-git.git
 cd devops-school-git
@@ -28,4 +30,4 @@ git rebase --continue
 nano author.txt
 git add author.txt
 git commit -m "Add author"
-# Git_education
+
